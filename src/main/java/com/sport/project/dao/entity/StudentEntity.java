@@ -13,8 +13,8 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-@Entity(name = "student_entity")
-@Table(schema = "sport_schema", name = "student_table")
+//@Entity(name = "student_entity")
+//@Table(schema = "sport_schema", name = "student_table")
 @NoArgsConstructor
 public class StudentEntity extends BaseEntity<Integer> implements Serializable {
 
